@@ -38,6 +38,7 @@ console.log(producto);
 // En JS no es necesario declarar el tipo de dato
 // JS es un lenguaje de tipo dinamico, mientras se ejecuta se compila
 // Las variables pueden tener, letras, números y caracteres, pero no pueden iniciar con carecteres o números.
+// Al definir variables deben de escribirse igual al usarlas
 
 
 
