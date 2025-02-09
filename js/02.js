@@ -33,7 +33,7 @@ let nombreproducto = 'Monitor HD'; // Normal
 
 console.log(producto);
 
-// Esta forma de definir variables ya no se utiliza
+
 // JS No es estricto con los punto y coma
 // En JS no es necesario declarar el tipo de dato
 // JS es un lenguaje de tipo dinamico, mientras se ejecuta se compila
